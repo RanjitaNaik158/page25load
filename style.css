@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&display=swap");
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* width: auto; */
+    /* height: auto; */
+  }
+  
+  .row {
+    display: flex;
+    margin-left: 250px;
+    margin-top: 60px;
+  }
+  
+  .column {
+    /* flex: 1%; */
+    padding: 15px;
+    
+  }
+  .vl
+  {
+      
+      height: 130px;
+      border-left: 1px solid black;
+      padding-top: 45px;
+      text-align: justify;
+      
+      
+  }
+  .university
+  {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      padding-top: 30px;
+      font-size: 45px;
+      padding-left: 0px;
+  
+  }
+  #preloader
+  {
+      background: white url(icon.gif) no-repeat;
+      background-size: 15%;
+      /* padding-top: 500px; */
+      /* height: 270vh; */
+      width: 100%;
+      margin-left: 550px;
+      position: fixed;
+      z-index: 100;
+      /* margin-bottom: 690px; */
+  }
+  #Loading 
+  {
+  
+  padding-left: 75px;
+  padding-top: 95px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .watermark .imgconts {
+      width: 5rem;
+      margin-top: 0.7px;   
+  } 
+  .watermark {
+      display: flex;
+      gap: 2px;
+      opacity: 0.4;
+      margin-top: 380px;
+      float: right;
+      }
+  
+  .university-name 
+  {
+    padding-left: 0px;
+     padding-top: 15px;
+    }
+  
+
+
+        
+    
+        
